@@ -1,1 +1,0 @@
-# ALX ES6 - PROMISE
