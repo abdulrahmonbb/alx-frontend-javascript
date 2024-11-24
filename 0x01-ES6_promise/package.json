@@ -10,6 +10,7 @@
     "@babel/core": "^7.6.0",
     "@babel/node": "^7.8.0",
     "@babel/preset-env": "^7.6.0",
+    "@eslint/js": "^9.15.0",
     "@typescript-eslint/utils": "^5.9.2-alpha.6",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
@@ -27,5 +28,8 @@
   "main": ".eslintrc.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "globals": "^15.12.0"
+  }
 }
